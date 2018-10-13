@@ -1,0 +1,5 @@
+#Name (duration) cost
+yay 50
+cool 50
+yourock 50
+pirate 50

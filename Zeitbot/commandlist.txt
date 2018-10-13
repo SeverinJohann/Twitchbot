@@ -1,0 +1,10 @@
+#Name <<< Answer
+!me<<<$VIEWER$: you have $CURRENCYAMOUNT$ $CURRENCY$ and watched $WATCHTIME$ hours.
+!you<<<$TARGET$ has $TARGETCURRENCYAMOUNT$ $CURRENCY$ and watched $TARGETWATCHTIME$ hours.
+!love<<<$VIEWER$ loves $MESSAGE$ to $RANDOM$% <3
+!hug<<<$VIEWER$ gives $MESSAGE$ a magical and warm hug <3
+!points<<<$USER$ has $CURRENCYAMOUNT$ points.
+!gamersden<<<Gamersden is an awesome community I'm in. To join the discord follow this link https://discord.gg/TKvJ7Q
+!discord<<<https://discord.gg/zpks9gE
+!wave<<<$MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$ $MESSAGE$
+!uptime<<<The Stream is running for $UPTIME$ hours

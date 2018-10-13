@@ -1,0 +1,8 @@
+#Name Level XP-Needed-For-Up
+Starter 1 15
+Intermediate 2 60
+Advanced 3 180
+Challenger 4 360
+Master 5 720
+Grandmaster 6 1440
+Legend 7 -1

@@ -1,0 +1,5 @@
+#CHANNEL:zeitless
+#CURRENCY:Points
+#BOTNAME:zeit_bot
+#BOTOAUTH:oauth:sdomlaix7kqblbwyicj664t7bqw5ry
+#COLORSET:colorful
